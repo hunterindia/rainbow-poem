@@ -1,6 +1,7 @@
-this is file 1
+this is file 2
 red
 yellow
 green
 white
 black
+pink
