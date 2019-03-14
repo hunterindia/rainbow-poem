@@ -1,0 +1,6 @@
+this is file 1
+red
+yellow
+green
+white
+black
