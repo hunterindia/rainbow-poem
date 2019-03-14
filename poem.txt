@@ -3,7 +3,7 @@ red
 yellow
 green
 white
+indigo
 black
 pink
 blue
-Ahead of pony
